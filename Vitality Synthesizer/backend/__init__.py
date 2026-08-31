@@ -1,3 +1,0 @@
-"""
-Vitality Synthesizer Backend Package
-"""
